@@ -2,7 +2,6 @@ set number
 
 set showcmd
 
-set number
 set cursorcolumn
 set smartindent
 set showmatch
